@@ -11,7 +11,7 @@ import {
 } from 'react-native';
 
 const CONTEXT_KEY = '179d82ad5c543e4c0';
-const API_KEY = 'AIzaSyCN27GezMNzyPHPd9eFOAFUvp7ubUDSgeo';
+const API_KEY = 'YOUR GOOGLE SEARCH API KEY HERE';
 
 export default function SearchResult(props) {
   const [data, setData] = useState(null);
