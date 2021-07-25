@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "duckduckrun",
+    "slug": "snack-5778e74f-f353-4514-823f-3f78f1e2ebfa",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "package": "com.suryansh314159.duckduckrun"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
